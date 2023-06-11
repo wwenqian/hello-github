@@ -2,6 +2,7 @@ def hello(to):
     return f"Hello {to}!"
 
 def goodbye(to):
+    print("Please to meet u . ")
     return f"Goodbye {to}!"
 
 def main():
